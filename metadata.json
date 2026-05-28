@@ -1,0 +1,6 @@
+{
+  "name": "Windows Face Recognition Photo Organizer",
+  "description": "Scan and organize your photos into categorized subfolders using Gemini multi-modal face recognition technology. Renames and packages your images into organized directories ready to download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
